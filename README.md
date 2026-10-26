@@ -33,8 +33,8 @@ The basic scanner can fall back to plain-text output if `rich` is not installed.
 Installation
 1. Clone the repository
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
-cd <YOUR-REPOSITORY-DIRECTORY>
+git clone https://github.com/Yashchormale/jackleo.git
+cd jackleo
 ```
 Replace the placeholders with your actual repository URL and directory name.
 2. (Optional) Create a virtual environment
